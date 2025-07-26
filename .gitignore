@@ -1,0 +1,40 @@
+# Maven build directory
+/target/
+
+# Eclipse/VS Code/IntelliJ project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Environment files
+.env
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# JetBrains IDEs
+out/
+
+# Ignore metadata (assuming this is IDE-specific)
+.metadata/
